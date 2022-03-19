@@ -5,11 +5,13 @@ Atari XL keyboard replacement
 
 Note that this board is untested so far. But what can go wrong with a bunch of switches? :)
 
-Designed rev 2. of the board. 
+Designed rev B & C of the board. 
 I've added holes to make the switches PCB mount, some holes to mount stabilisers for the spacebar, and even more holes to align with the metal backplane of the original mylar / Stackpole switched of my 600XL. 
 Traces rerouted to avoid all those extra holes.
 
+I've designed cherry to Stackpole replacement stems for mechanical switches
+
 To do:
-Design cherry to Stackpole replacement stems for mechanical switches. These will probably have to be resin printed.
+Resin print cherry to Stackpole replacement stems for mechanical switches
 Design PCB mount spacebar stabiliser clips. May be able to FDM these.
-Design PCB standoffs to go between board and plate. Probably the final thing to be done as these will set the height of the keys.
+Design PCB standoffs to go between board and plate / or some other mounting method.
