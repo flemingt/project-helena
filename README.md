@@ -9,7 +9,8 @@ Follow-up: Rev C has now been tested and works.
 Designed rev B & C of the board. 
 I've added holes to make the switches PCB mount, some holes to mount stabilisers for the spacebar, and even more holes to align with the metal backplane of the original mylar / Stackpole switched of my 600XL.
 The traces have been rerouted to avoid all those extra holes.
-Unfortunately, using the metal backplane eats up too much space and pushes the keys too high. So I've designed some 3D printed bracketry to use the screw posts in the top half of the case. THere's a bit of flex in the board, but I have a fix in development.
+Unfortunately, using the metal backplane eats up too much space and pushes the keys too high. So I've designed some 3D printed bracketry to use the screw posts in the top half of the case. 
+There's a bit of flex in the board, but I have a fix in development.
 I've designed cherry to Stackpole replacement stems for mechanical switches, but adaptors are also feasible.
 
 In addition, I've created a bracket to mount the U1MB expansion board. Note, you'll have to relocate the battery to make this all fit in the confines of a 600XL
