@@ -1,7 +1,7 @@
 # project-helena
 Atari XL keyboard replacement
 
-![image](https://user-images.githubusercontent.com/71668824/151438926-67463e58-110b-4edf-b6e5-0da5454a57d6.png)
+![image](https://github.com/flemingt/project-helena/blob/main/Project%20Helena.jpg?raw=true)
 
 Note that this board is untested so far. But what can go wrong with a bunch of switches? :)
 Rev D has been designed with slightly different ribbon cable mounting points and moved the LED solder location to shorten the length of the board by a few mm
