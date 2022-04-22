@@ -1,3 +1,0 @@
-double ended pins
-24
-dupont?
