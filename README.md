@@ -16,6 +16,8 @@ I've designed cherry to Stackpole replacement stems for mechanical switches, but
 
 In addition, I've created a bracket to mount the U1MB expansion board. Note, you'll have to relocate the battery to make this all fit in the confines of a 600XL.
 
+![image](https://github.com/flemingt/project-helena/blob/main/3D%20Printing%20files/3DP%20key.png?raw=true)
+
 All the 3D printed parts use standard PLA, 50% infill. Some of the shapes area a bit tricky, but I've successfully printed everything with some thought on orientation and supports in the slicer.
 
 To do:
