@@ -3,10 +3,10 @@ Atari XL keyboard replacement
 
 ![image](https://github.com/flemingt/project-helena/blob/main/Project%20Helena.jpg?raw=true)
 
-Note that this board is untested so far. But what can go wrong with a bunch of switches? :)
-Rev D has been designed with slightly different ribbon cable mounting points and moved the LED solder location to shorten the length of the board by a few mm
+What can go wrong with a bunch of switches? :)
 
-Building on Ivop's project I've designed rev B, C, & D of the board. 
+Building on Ivop's project I've designed rev B, C, & D of the board.
+Rev D has been designed with slightly different ribbon cable mounting points and moved the LED solder location to shorten the length of the board by a few mm
 
 I've added holes to make the switches PCB mount, some holes to mount stabilisers for the spacebar, and even more holes to align with the metal backplane of the original mylar / Stackpole keyboard of my 600XL. Maybe someone will need the mounting holes in the future. 
 
