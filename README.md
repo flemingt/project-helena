@@ -6,7 +6,7 @@ Atari XL keyboard replacement
 What can go wrong with a bunch of switches? :)
 
 Building on Ivop's project I've designed rev B, C, & D of the board.
-Rev D has been designed with slightly different ribbon cable mounting points and moved the LED solder location to shorten the length of the board by a few mm
+Rev D has been designed with slightly different ribbon cable mounting points and moved the LED solder location to shorten the length of the board by a few mm. It is now ~111x346mm
 
 The Helena Aux pcb plugs into the keyboard ribbon slot on the mainboard. For the 600XL 0.8mm seems to work, but 0.6mm or thinner is required for the 800XL.
 
