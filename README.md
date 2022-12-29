@@ -21,3 +21,5 @@ In addition, I've created a bracket to mount the U1MB expansion board. Note, you
 ![image](https://github.com/flemingt/project-helena/blob/main/3D%20Printing%20files/3DP%20key.png?raw=true)
 
 All the 3D printed parts use standard PLA, 50% infill. Some of the shapes area a bit tricky, but I've successfully printed everything with some thought on orientation and supports in the slicer.
+
+Scorpio_NY on the Atariage forums has created 3D printable plates which will stiffen up the keyboard PCB and allow more accurate mounting on the switches. See the "Plate Files" directory. To accomodate the plates he's also developed new stabilizer files (in the "Final Stab Files" directory) and support brackets (in the "Final Support Bracket Files" directory).
